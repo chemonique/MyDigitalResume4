@@ -1,0 +1,31 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+  background-color: rgb(166, 207, 127 ,0.795);
+}
+
+#heading{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 110%;
+color: darkslategray;
+}
+
+#sidebar{
+  width: 15%;
+  background-color: #3f784c;
+  
+}
+
+.nav-menu{
+  list-style-type: none;
+}
+
+footer {
+  background-color: #fdcdbb;
+  text-align: center;
+}
